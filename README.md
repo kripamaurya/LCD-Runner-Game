@@ -63,9 +63,9 @@ In this game, the player jumps over obstacles and tries to achieve the highest s
 
 ![LCD Runner](game.jpeg)
 
-## Demo Video
+## 🎥 Demo Video
 
-  [Watch Demo Video](https://youtube.com/shorts/g5RwAaFt7a)
+[![Watch Demo](https://img.youtube.com/vi/g5RwAaFt7ak/maxresdefault.jpg)](https://www.youtube.com/shorts/g5RwAaFt7ak)
 
 ## Author
 
