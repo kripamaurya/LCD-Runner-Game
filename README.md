@@ -65,7 +65,7 @@ In this game, the player jumps over obstacles and tries to achieve the highest s
 
 ## Demo Video
 
-[![Watch Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/shorts/YOUR_VIDEO_LINK)
+![Watch Video]([https://youtube.com/shorts/YOUR_VIDEO_LINK](https://youtube.com/shorts/g5RwAaFt7ak?si=jKj10-wi92RmOEvc))
 
 ## Author
 
