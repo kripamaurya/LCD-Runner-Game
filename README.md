@@ -61,7 +61,7 @@ In this game, the player jumps over obstacles and tries to achieve the highest s
 
 ## Project Image
 
-![LCD Runner](game.jpg)
+![LCD Runner](game.jpeg)
 
 ## Demo Video
 
